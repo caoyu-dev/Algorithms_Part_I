@@ -8,3 +8,4 @@
 
 - Percolation : 94 / 100
 - Deques and Randomized Queues : 89 / 100
+- Collinear Points : 80 / 100 (좀 더 봐야함)
