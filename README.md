@@ -3,6 +3,7 @@
 [Coursera - Algorithms Part I](https://www.coursera.org/learn/algorithms-part1)
 
 - start date : 2023-06-01
+- end date : 2023-07-10
 
 # Score
 
