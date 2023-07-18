@@ -10,3 +10,4 @@
 - Deques and Randomized Queues : 89 / 100
 - Collinear Points : 80 / 100 (좀 더 봐야함)
 - 8 Puzzle : 94 / 100
+- Kd Trees : 97 / 100
